@@ -1,0 +1,80 @@
+
+
+21/12/2021.
+
+La página de las APIs key no funciona, así que hasta aquí hemos llegado hasta que vuelva a funcionar:
+https://dev.elsevier.com/index.html
+
+label: papersearch
+website: https://localhost/
+
+1 	https://localhost/	papersearch	1ff1345f7b2e66316522ec31ab816511
+
+
+El repositorio del módulo Python:
+https://github.com/ElsevierDev/elsapy
+
+Este repositorio usa urls antiguas que siempre devuelven el c´ñodigo 410 porque ya están desactivadas.
+En cambio, sis e usa la URL buena siempre se obtiene el siguiente mensaje de error:
+{'service-error': {'status': {'statusCode': 'AUTHORIZATION_ERROR', 'statusText': 'The requestor is not authorized to access the requested view or fields of the resource'}}}
+
+Creo que el problema es que me detecta que la IP noe s de la universidad de Svilla, así que lo mejor que puedo hacer es probarlo en la Universidad, mediante un cloid o algo así.
+
+funciona: https://replit.com/@JavierGutierr13/testrequest#main.py
+Enn to con google.
+
+
+Scopus no encuentra nada y scidir da jun eror, no pinta bien esto.
+
+
+https://api.elsevier.com/content/search/sciencedirect?X-ELS-APIKey='1ff1345f7b2e66316522ec31ab816511'
+
+
+--------------
+
+Scopus me funciona,
+voy a trabnajar con él y desde el depacho intentaré hacer lo mismo con scidir.
+
+22/12/2021
+
+El API de Scopus no me devuelve el texto del abstract.
+si intento acceder directamente vía URL me sale un eror porque no tengo eprmisos, no estoy logado o algo así
+No me sirve de nada
+
+El problema probablemente es que la cookies se generan con javacript y requests lógicamente no ejecuta el javascript.
+
+
+------------------
+
+El API de Mendely a ver si puedo ahcer algo con él.
+https://dev.mendeley.com/
+
+Mientras no funcione el API de elsevier puedo ir probando con esta de aquí:
+
+https://developer.ieee.org/
+
+javierj@us.es / XploreAPI_666
+Me he dadod e alta como suuario pero no tengo la api key ni veo como se pide. Puede que sea a mano y me la envíen más adelante
+
+
+------
+
+API de google Scholar
+https://serpapi.com/google-scholar-organic-results
+
+Parece que tampoco permite acceder a los abstracts.
+Gratis son 100 búsquedas por mes.
+Creo que termino haciendo yo mi scrapper.
+
+
+---------
+
+
+
+¿Qué quiero conseguir?
+
+Buscar artúclos y que los resultados me muestren la parte del abstract que habla de los resultados.
+Que los artículos encontrados se descargen directamente (y se añadan en Mendeley).
+Indicar la referencia de un artículo y que se descarggue automáticamente esa referencia.
+Descargar todos los artículos de un autor en un rangod e fechas od e palabras clave.
+Buscar papers d eun tema que tengan palabras concretas en abstract o cuerpio.

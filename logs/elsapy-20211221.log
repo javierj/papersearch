@@ -1,0 +1,1310 @@
+2021-12-21 14:55:53,195 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 14:55:53,279 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 14:55:53,306 - elsapy.utils - INFO - Module loaded.
+2021-12-21 14:55:53,307 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 14:55:53,328 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 14:55:53,373 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 14:57:53,825 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 14:57:53,825 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 14:57:53,826 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 14:57:53,826 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 14:57:53,827 - elsapy.utils - INFO - Module loaded.
+2021-12-21 14:57:53,827 - elsapy.utils - INFO - Module loaded.
+2021-12-21 14:57:53,828 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 14:57:53,828 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 14:57:53,828 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 14:57:53,828 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 14:57:53,830 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 14:57:53,830 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 14:58:58,086 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 14:58:58,086 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 14:58:58,086 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 14:58:58,087 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 14:58:58,087 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 14:58:58,087 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 14:58:58,088 - elsapy.utils - INFO - Module loaded.
+2021-12-21 14:58:58,088 - elsapy.utils - INFO - Module loaded.
+2021-12-21 14:58:58,088 - elsapy.utils - INFO - Module loaded.
+2021-12-21 14:58:58,088 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 14:58:58,088 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 14:58:58,088 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 14:58:58,089 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 14:58:58,089 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 14:58:58,089 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 14:58:58,090 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 14:58:58,090 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 14:58:58,090 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 14:58:59,101 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 14:58:59,101 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 14:58:59,101 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 14:59:00,822 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 14:59:00,822 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 14:59:00,822 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 14:59:37,483 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 14:59:37,483 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 14:59:37,483 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 14:59:37,483 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 14:59:37,484 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 14:59:37,484 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 14:59:37,484 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 14:59:37,484 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 14:59:37,485 - elsapy.utils - INFO - Module loaded.
+2021-12-21 14:59:37,485 - elsapy.utils - INFO - Module loaded.
+2021-12-21 14:59:37,485 - elsapy.utils - INFO - Module loaded.
+2021-12-21 14:59:37,485 - elsapy.utils - INFO - Module loaded.
+2021-12-21 14:59:37,486 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 14:59:37,486 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 14:59:37,486 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 14:59:37,486 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 14:59:37,487 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 14:59:37,487 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 14:59:37,487 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 14:59:37,487 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 14:59:37,488 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 14:59:37,488 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 14:59:37,488 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 14:59:37,488 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 14:59:38,493 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 14:59:38,493 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 14:59:38,493 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 14:59:38,493 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 14:59:40,037 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 14:59:40,037 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 14:59:40,037 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 14:59:40,037 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 14:59:41,010 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 14:59:41,010 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 14:59:41,010 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 14:59:41,010 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:00:12,890 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:00:12,890 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:00:12,890 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:00:12,890 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:00:12,890 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:00:12,892 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:00:12,892 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:00:12,892 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:00:12,892 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:00:12,892 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:00:12,892 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:00:12,892 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:00:12,892 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:00:12,892 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:00:12,892 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:00:12,893 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:00:12,893 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:00:12,893 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:00:12,893 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:00:12,893 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:00:12,893 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:00:12,893 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:00:12,893 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:00:12,893 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:00:12,893 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:00:12,894 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:00:12,894 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:00:12,894 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:00:12,894 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:00:12,894 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:00:13,892 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:00:13,892 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:00:13,892 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:00:13,892 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:00:13,892 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:01:37,271 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:01:37,271 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:01:37,271 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:01:37,271 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:01:37,271 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:01:37,271 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:01:37,274 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:01:37,274 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:01:37,274 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:01:37,274 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:01:37,274 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:01:37,274 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:01:37,275 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:01:37,275 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:01:37,275 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:01:37,275 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:01:37,275 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:01:37,275 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:01:37,275 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:01:37,275 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:01:37,275 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:01:37,275 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:01:37,275 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:01:37,275 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:01:37,276 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:01:37,276 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:01:37,276 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:01:37,276 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:01:37,276 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:01:37,276 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:01:37,277 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:01:37,277 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:01:37,277 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:01:37,277 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:01:37,277 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:01:37,277 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:01:38,286 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:01:38,286 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:01:38,286 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:01:38,286 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:01:38,286 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:01:38,286 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:01:40,009 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:01:40,009 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:01:40,009 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:01:40,009 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:01:40,009 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:01:40,009 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:01:41,007 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:01:41,007 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:01:41,007 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:01:41,007 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:01:41,007 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:01:41,007 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:02:12,939 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:02:12,939 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:02:12,939 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:02:12,939 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:02:12,939 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:02:12,939 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:02:12,939 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:02:12,941 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:02:12,941 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:02:12,941 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:02:12,941 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:02:12,941 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:02:12,941 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:02:12,941 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:02:12,942 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:02:12,942 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:02:12,942 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:02:12,942 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:02:12,942 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:02:12,942 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:02:12,942 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:02:12,943 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:02:12,943 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:02:12,943 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:02:12,943 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:02:12,943 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:02:12,943 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:02:12,943 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:02:12,943 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:02:12,943 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:02:12,943 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:02:12,943 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:02:12,943 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:02:12,943 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:02:12,943 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:02:12,945 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:02:12,945 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:02:12,945 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:02:12,945 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:02:12,945 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:02:12,945 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:02:12,945 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:02:13,942 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:02:13,942 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:02:13,942 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:02:13,942 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:02:13,942 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:02:13,942 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:02:13,942 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:02:15,541 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:02:15,541 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:02:15,541 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:02:15,541 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:02:15,541 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:02:15,541 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:02:15,541 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:02:16,545 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=scrum
+2021-12-21 15:02:16,545 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=scrum
+2021-12-21 15:02:16,545 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=scrum
+2021-12-21 15:02:16,545 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=scrum
+2021-12-21 15:02:16,545 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=scrum
+2021-12-21 15:02:16,545 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=scrum
+2021-12-21 15:02:16,545 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=scrum
+2021-12-21 15:02:17,905 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:02:17,905 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:02:17,905 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:02:17,905 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:02:17,905 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:02:17,905 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:02:17,905 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:10:55,993 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:10:55,993 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:10:55,993 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:10:55,993 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:10:55,993 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:10:55,993 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:10:55,993 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:10:55,993 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:10:55,994 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:10:55,994 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:10:55,994 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:10:55,994 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:10:55,994 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:10:55,994 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:10:55,994 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:10:55,994 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:10:56,032 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:10:56,032 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:10:56,032 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:10:56,032 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:10:56,032 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:10:56,032 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:10:56,032 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:10:56,032 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:10:56,032 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:10:56,032 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:10:56,032 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:10:56,032 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:10:56,032 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:10:56,032 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:10:56,032 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:10:56,032 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:10:56,033 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:10:56,033 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:10:56,033 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:10:56,033 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:10:56,033 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:10:56,033 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:10:56,033 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:10:56,033 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:10:56,035 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:10:56,035 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:10:56,035 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:10:56,035 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:10:56,035 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:10:56,035 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:10:56,035 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:10:56,035 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:11:33,548 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:11:33,548 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:11:33,548 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:11:33,548 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:11:33,548 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:11:33,548 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:11:33,548 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:11:33,548 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:11:33,548 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:11:33,549 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:11:33,549 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:11:33,549 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:11:33,549 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:11:33,549 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:11:33,549 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:11:33,549 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:11:33,549 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:11:33,549 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:11:33,550 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:11:33,550 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:11:33,550 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:11:33,550 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:11:33,550 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:11:33,550 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:11:33,550 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:11:33,550 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:11:33,550 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:11:33,551 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:11:33,551 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:11:33,551 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:11:33,551 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:11:33,551 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:11:33,551 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:11:33,551 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:11:33,551 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:11:33,551 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:11:33,552 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:11:33,552 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:11:33,552 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:11:33,552 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:11:33,552 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:11:33,552 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:11:33,552 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:11:33,552 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:11:33,552 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:11:33,553 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:11:33,553 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:11:33,553 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:11:33,553 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:11:33,553 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:11:33,553 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:11:33,553 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:11:33,553 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:11:33,553 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:11:34,557 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:11:34,557 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:11:34,557 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:11:34,557 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:11:34,557 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:11:34,557 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:11:34,557 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:11:34,557 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:11:34,557 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:11:36,283 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:11:36,283 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:11:36,283 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:11:36,283 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:11:36,283 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:11:36,283 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:11:36,283 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:11:36,283 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:11:36,283 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:11:37,289 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=scrum
+2021-12-21 15:11:37,289 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=scrum
+2021-12-21 15:11:37,289 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=scrum
+2021-12-21 15:11:37,289 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=scrum
+2021-12-21 15:11:37,289 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=scrum
+2021-12-21 15:11:37,289 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=scrum
+2021-12-21 15:11:37,289 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=scrum
+2021-12-21 15:11:37,289 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=scrum
+2021-12-21 15:11:37,289 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=scrum
+2021-12-21 15:11:38,575 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:11:38,575 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:11:38,575 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:11:38,575 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:11:38,575 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:11:38,575 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:11:38,575 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:11:38,575 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:11:38,575 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:12:01,690 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:12:01,690 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:12:01,690 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:12:01,690 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:12:01,690 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:12:01,690 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:12:01,690 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:12:01,690 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:12:01,690 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:12:01,690 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:12:01,691 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:12:01,691 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:12:01,691 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:12:01,691 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:12:01,691 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:12:01,691 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:12:01,691 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:12:01,691 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:12:01,691 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:12:01,691 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:12:01,692 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:12:01,692 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:12:01,692 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:12:01,692 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:12:01,692 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:12:01,692 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:12:01,692 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:12:01,692 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:12:01,692 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:12:01,692 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:12:01,693 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:12:01,693 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:12:01,693 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:12:01,693 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:12:01,693 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:12:01,693 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:12:01,693 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:12:01,693 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:12:01,693 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:12:01,693 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:12:01,694 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:12:01,694 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:12:01,694 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:12:01,694 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:12:01,694 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:12:01,694 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:12:01,694 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:12:01,694 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:12:01,694 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:12:01,694 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:12:01,695 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:12:01,695 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:12:01,695 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:12:01,695 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:12:01,695 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:12:01,695 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:12:01,695 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:12:01,695 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:12:01,695 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:12:01,695 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:12:02,697 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:12:02,697 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:12:02,697 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:12:02,697 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:12:02,697 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:12:02,697 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:12:02,697 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:12:02,697 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:12:02,697 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:12:02,697 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:12:04,306 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:12:04,306 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:12:04,306 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:12:04,306 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:12:04,306 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:12:04,306 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:12:04,306 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:12:04,306 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:12:04,306 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:12:04,306 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:12:05,313 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:12:05,313 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:12:05,313 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:12:05,313 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:12:05,313 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:12:05,313 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:12:05,313 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:12:05,313 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:12:05,313 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:12:05,313 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:12:35,993 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:12:35,993 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:12:35,993 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:12:35,993 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:12:35,993 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:12:35,993 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:12:35,993 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:12:35,993 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:12:35,993 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:12:35,993 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:12:35,993 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:12:35,995 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:12:35,995 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:12:35,995 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:12:35,995 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:12:35,995 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:12:35,995 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:12:35,995 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:12:35,995 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:12:35,995 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:12:35,995 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:12:35,995 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:12:35,996 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:12:35,996 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:12:35,996 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:12:35,996 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:12:35,996 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:12:35,996 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:12:35,996 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:12:35,996 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:12:35,996 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:12:35,996 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:12:35,996 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:12:35,996 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:12:35,996 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:12:35,996 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:12:35,996 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:12:35,996 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:12:35,996 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:12:35,996 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:12:35,996 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:12:35,996 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:12:35,996 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:12:35,996 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:12:35,997 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:12:35,997 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:12:35,997 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:12:35,997 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:12:35,997 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:12:35,997 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:12:35,997 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:12:35,997 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:12:35,997 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:12:35,997 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:12:35,997 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:12:35,998 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:12:35,998 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:12:35,998 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:12:35,998 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:12:35,998 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:12:35,998 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:12:35,998 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:12:35,998 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:12:35,998 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:12:35,998 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:12:35,998 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:12:36,997 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:12:36,997 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:12:36,997 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:12:36,997 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:12:36,997 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:12:36,997 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:12:36,997 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:12:36,997 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:12:36,997 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:12:36,997 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:12:36,997 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:12:39,459 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:12:39,459 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:12:39,459 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:12:39,459 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:12:39,459 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:12:39,459 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:12:39,459 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:12:39,459 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:12:39,459 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:12:39,459 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:12:39,459 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:12:40,463 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:12:40,463 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:12:40,463 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:12:40,463 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:12:40,463 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:12:40,463 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:12:40,463 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:12:40,463 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:12:40,463 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:12:40,463 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:12:40,463 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:19:51,254 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,254 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,254 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,254 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,254 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,254 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,254 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,254 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,254 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,254 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,254 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,254 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,306 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,306 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,306 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,306 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,306 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,306 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,306 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,306 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,306 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,306 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,306 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,306 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,306 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:19:51,307 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:19:51,307 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:19:51,307 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:19:51,307 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:19:51,307 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:19:51,307 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:19:51,307 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:19:51,307 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:19:51,307 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:19:51,307 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:19:51,307 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:19:51,307 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:19:51,308 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:19:51,309 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:19:51,309 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:19:51,309 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:19:51,309 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:19:51,309 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:19:51,309 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:19:51,309 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:19:51,309 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:19:51,309 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:19:51,309 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:19:51,309 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:19:51,309 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:19:51,310 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:19:51,310 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:19:51,310 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:19:51,310 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:19:51,310 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:19:51,310 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:19:51,310 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:19:51,310 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:19:51,310 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:19:51,310 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:19:51,310 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:19:51,310 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:19:52,314 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:19:52,314 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:19:52,314 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:19:52,314 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:19:52,314 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:19:52,314 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:19:52,314 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:19:52,314 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:19:52,314 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:19:52,314 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:19:52,314 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:19:52,314 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:19:52,314 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars
+2021-12-21 15:19:54,104 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:19:54,104 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:19:54,104 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:19:54,104 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:19:54,104 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:19:54,104 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:19:54,104 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:19:54,104 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:19:54,104 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:19:54,104 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:19:54,104 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:19:54,104 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:19:55,108 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:19:55,108 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:19:55,108 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:19:55,108 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:19:55,108 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:19:55,108 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:19:55,108 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:19:55,108 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:19:55,108 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:19:55,108 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:19:55,108 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:19:55,108 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:19:55,108 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum
+2021-12-21 15:21:02,525 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,525 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,525 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,525 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,525 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,525 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,525 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,525 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,525 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,525 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,525 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,525 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,525 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,525 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,575 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,575 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,575 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,575 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,575 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,575 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,575 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,575 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,575 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,575 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,575 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,575 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,575 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,575 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,575 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 15:21:02,577 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:21:02,577 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:21:02,577 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:21:02,577 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:21:02,577 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:21:02,577 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:21:02,577 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:21:02,577 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:21:02,577 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:21:02,577 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:21:02,577 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:21:02,577 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:21:02,577 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.utils - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:21:02,579 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 15:21:02,581 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:21:02,581 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:21:02,581 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:21:02,581 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:21:02,581 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:21:02,581 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:21:02,581 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:21:02,581 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:21:02,581 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:21:02,581 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:21:02,581 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:21:02,581 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:21:02,581 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 15:21:02,582 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:21:02,582 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:21:02,582 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:21:02,582 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:21:02,582 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:21:02,582 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:21:02,582 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:21:02,582 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:21:02,582 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:21:02,582 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:21:02,582 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:21:02,582 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:21:02,582 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 15:21:03,590 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:03,590 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:03,590 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:03,590 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:03,590 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:03,590 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:03,590 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:03,590 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:03,590 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:03,590 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:03,590 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:03,590 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:03,590 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:03,590 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:03,590 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:05,018 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:21:05,018 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:21:05,018 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:21:05,018 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:21:05,018 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:21:05,018 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:21:05,018 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:21:05,018 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:21:05,018 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:21:05,018 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:21:05,018 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:21:05,018 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:21:05,018 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 15:21:06,017 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:06,017 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:06,017 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:06,017 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:06,017 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:06,017 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:06,017 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:06,017 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:06,017 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:06,017 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:06,017 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:06,017 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:06,017 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:06,017 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 15:21:06,017 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:31:06,101 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:31:06,134 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:31:06,146 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:31:06,146 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:31:06,158 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:31:06,169 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:31:15,931 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:31:15,931 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:31:15,933 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:31:15,933 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:31:15,934 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:31:15,934 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:31:15,934 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:31:15,934 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:31:15,935 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:31:15,935 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:31:15,936 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:31:15,936 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:32:09,340 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:32:09,340 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:32:09,340 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:32:09,341 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:32:09,341 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:32:09,341 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:32:09,342 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:32:09,342 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:32:09,342 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:32:09,342 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:32:09,342 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:32:09,342 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:32:09,343 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:32:09,343 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:32:09,343 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:32:09,344 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:32:09,344 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:32:09,344 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:32:10,355 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:32:10,355 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:32:10,355 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:32:11,875 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:32:11,875 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:32:11,875 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:32:12,873 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:32:12,873 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:32:12,873 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:33:49,585 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:33:49,585 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:33:49,585 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:33:49,585 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:33:49,586 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:33:49,586 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:33:49,586 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:33:49,586 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:33:49,587 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:33:49,587 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:33:49,587 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:33:49,587 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:33:49,587 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:33:49,587 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:33:49,587 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:33:49,587 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:33:49,588 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:33:49,588 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:33:49,588 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:33:49,588 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:33:49,588 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:33:49,588 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:33:49,588 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:33:49,588 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:33:50,600 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:33:50,600 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:33:50,600 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:33:50,600 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:33:51,901 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:33:51,901 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:33:51,901 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:33:51,901 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:33:52,907 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:33:52,907 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:33:52,907 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:33:52,907 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:34:02,586 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:34:02,586 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:34:02,586 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:34:02,586 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:34:02,586 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:34:02,587 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:34:02,587 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:34:02,587 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:34:02,587 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:34:02,587 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:34:02,588 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:34:02,588 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:34:02,588 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:34:02,588 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:34:02,588 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:34:02,628 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:34:02,628 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:34:02,628 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:34:02,628 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:34:02,628 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:34:02,630 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:34:02,630 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:34:02,630 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:34:02,630 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:34:02,630 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:34:02,631 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:34:02,631 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:34:02,631 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:34:02,631 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:34:02,631 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:34:03,598 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:34:03,598 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:34:03,598 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:34:03,598 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:34:03,598 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:34:05,070 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:34:05,070 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:34:05,070 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:34:05,070 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:34:05,070 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:34:06,072 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:34:06,072 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:34:06,072 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:34:06,072 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:34:06,072 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:18,113 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:36:18,113 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:36:18,113 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:36:18,113 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:36:18,113 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:36:18,113 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:36:18,114 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:36:18,114 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:36:18,114 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:36:18,114 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:36:18,114 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:36:18,114 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:36:18,115 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:36:18,115 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:36:18,115 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:36:18,115 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:36:18,115 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:36:18,115 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:36:18,115 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:36:18,115 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:36:18,115 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:36:18,115 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:36:18,115 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:36:18,115 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:36:18,116 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:36:18,116 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:36:18,116 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:36:18,116 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:36:18,116 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:36:18,116 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:36:18,117 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:36:18,117 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:36:18,117 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:36:18,117 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:36:18,117 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:36:18,117 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:36:19,127 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:19,127 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:19,127 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:19,127 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:19,127 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:19,127 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:20,459 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:36:20,459 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:36:20,459 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:36:20,459 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:36:20,459 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:36:20,459 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:36:21,463 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:21,463 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:21,463 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:21,463 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:21,463 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:21,463 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:45,111 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:36:45,111 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:36:45,111 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:36:45,111 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:36:45,111 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:36:45,111 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:36:45,111 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:36:45,112 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:36:45,112 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:36:45,112 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:36:45,112 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:36:45,112 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:36:45,112 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:36:45,112 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:36:45,113 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:36:45,113 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:36:45,113 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:36:45,113 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:36:45,113 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:36:45,113 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:36:45,113 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:36:45,113 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:36:45,113 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:36:45,113 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:36:45,113 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:36:45,113 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:36:45,113 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:36:45,113 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:36:45,114 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:36:45,114 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:36:45,114 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:36:45,114 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:36:45,114 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:36:45,114 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:36:45,114 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:36:45,115 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:36:45,115 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:36:45,115 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:36:45,115 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:36:45,115 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:36:45,115 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:36:45,115 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:36:46,124 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:46,124 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:46,124 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:46,124 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:46,124 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:46,124 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:46,124 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:47,718 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:36:47,718 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:36:47,718 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:36:47,718 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:36:47,718 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:36:47,718 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:36:47,718 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:36:48,718 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:48,718 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:48,718 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:48,718 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:48,718 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:48,718 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:36:48,718 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:40:05,110 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:40:05,110 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:40:05,110 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:40:05,110 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:40:05,110 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:40:05,110 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:40:05,110 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:40:05,110 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:40:05,111 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:40:05,111 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:40:05,111 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:40:05,111 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:40:05,111 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:40:05,111 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:40:05,111 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:40:05,111 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:40:05,112 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:40:05,112 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:40:05,112 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:40:05,112 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:40:05,112 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:40:05,112 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:40:05,112 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:40:05,112 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:40:05,112 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:40:05,112 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:40:05,112 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:40:05,112 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:40:05,112 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:40:05,112 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:40:05,112 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:40:05,112 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:40:05,113 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:40:05,113 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:40:05,113 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:40:05,113 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:40:05,113 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:40:05,113 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:40:05,113 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:40:05,113 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:40:05,114 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:40:05,114 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:40:05,114 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:40:05,114 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:40:05,114 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:40:05,114 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:40:05,114 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:40:05,114 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:40:06,111 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:40:06,111 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:40:06,111 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:40:06,111 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:40:06,111 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:40:06,111 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:40:06,111 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:40:06,111 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:40:07,691 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:40:07,691 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:40:07,691 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:40:07,691 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:40:07,691 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:40:07,691 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:40:07,691 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:40:07,691 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:40:08,699 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:40:08,699 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:40:08,699 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:40:08,699 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:40:08,699 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:40:08,699 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:40:08,699 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:40:08,699 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:46:03,462 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:46:03,462 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:46:03,462 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:46:03,462 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:46:03,462 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:46:03,462 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:46:03,462 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:46:03,462 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:46:03,462 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:46:03,463 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:46:03,463 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:46:03,463 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:46:03,463 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:46:03,463 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:46:03,463 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:46:03,463 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:46:03,463 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:46:03,463 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:46:03,464 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:46:03,464 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:46:03,464 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:46:03,464 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:46:03,464 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:46:03,464 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:46:03,464 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:46:03,464 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:46:03,464 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:46:03,465 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:46:03,465 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:46:03,465 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:46:03,465 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:46:03,465 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:46:03,465 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:46:03,465 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:46:03,465 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:46:03,465 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:46:03,466 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:46:03,466 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:46:03,466 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:46:03,466 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:46:03,466 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:46:03,466 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:46:03,466 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:46:03,466 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:46:03,466 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:46:03,467 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:46:03,467 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:46:03,467 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:46:03,467 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:46:03,467 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:46:03,467 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:46:03,467 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:46:03,467 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:46:03,467 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:46:05,425 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:46:05,425 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:46:05,425 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:46:05,425 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:46:05,425 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:46:05,425 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:46:05,425 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:46:05,425 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:46:05,425 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:46:06,821 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:46:06,821 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:46:06,821 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:46:06,821 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:46:06,821 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:46:06,821 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:46:06,821 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:46:06,821 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:46:06,821 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:46:07,826 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:46:07,826 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:46:07,826 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:46:07,826 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:46:07,826 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:46:07,826 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:46:07,826 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:46:07,826 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:46:07,826 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:49:19,154 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:49:19,154 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:49:19,154 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:49:19,154 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:49:19,154 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:49:19,154 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:49:19,154 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:49:19,154 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:49:19,154 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:49:19,154 - elsapy.elsclient - INFO - Module loaded.
+2021-12-21 22:49:19,155 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:49:19,155 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:49:19,155 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:49:19,155 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:49:19,155 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:49:19,155 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:49:19,155 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:49:19,155 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:49:19,155 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:49:19,155 - elsapy.elsentity - INFO - Module loaded.
+2021-12-21 22:49:19,157 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:49:19,157 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:49:19,157 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:49:19,157 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:49:19,157 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:49:19,157 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:49:19,157 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:49:19,157 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:49:19,157 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:49:19,157 - elsapy.utils - INFO - Module loaded.
+2021-12-21 22:49:19,157 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:49:19,157 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:49:19,157 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:49:19,157 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:49:19,157 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:49:19,157 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:49:19,157 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:49:19,157 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:49:19,157 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:49:19,157 - elsapy.elsprofile - INFO - Module loaded.
+2021-12-21 22:49:19,158 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:49:19,158 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:49:19,158 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:49:19,158 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:49:19,158 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:49:19,158 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:49:19,158 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:49:19,158 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:49:19,158 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:49:19,158 - elsapy.elsdoc - INFO - Module loaded.
+2021-12-21 22:49:19,159 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:49:19,159 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:49:19,159 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:49:19,159 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:49:19,159 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:49:19,159 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:49:19,159 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:49:19,159 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:49:19,159 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:49:19,159 - elsapy.elssearch - INFO - Module loaded.
+2021-12-21 22:49:21,042 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:49:21,042 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:49:21,042 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:49:21,042 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:49:21,042 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:49:21,042 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:49:21,042 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:49:21,042 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:49:21,042 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:49:21,042 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=star%2Btrek%2Bvs%2Bstar%2Bwars with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:49:22,754 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:49:22,754 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:49:22,754 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:49:22,754 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:49:22,754 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:49:22,754 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:49:22,754 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:49:22,754 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:49:22,754 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:49:22,754 - elsapy.utils - INFO - Converting prism:coverDate
+2021-12-21 22:49:23,756 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:49:23,756 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:49:23,756 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:49:23,756 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:49:23,756 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:49:23,756 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:49:23,756 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:49:23,756 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:49:23,756 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
+2021-12-21 22:49:23,756 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=scrum with header {'X-ELS-APIKey': '1ff1345f7b2e66316522ec31ab816511', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}
