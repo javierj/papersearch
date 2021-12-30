@@ -12,7 +12,6 @@ Que me los agrupe por palabras clave encontradas.
 Filtrar por fecha.
 Como no puedo descargármelos en mi equipo, puedo ponerlos en un calendar o un doc comaprtido de google para hacerlo en el despacho.
 Si es open access, porque me lo puedo bajar en casa.
-Que los resultados se guarden directamente en un fcihero.
 
 """
 
@@ -24,12 +23,16 @@ from bs4 import BeautifulSoup
 
 class Paper():
     
-    def __init__(self, title, abstract, kws, date, url = None):
+    def __init__(self, title, abstract, kws, date, url = "No URL", paper_id = "0"):
         self._title = title
         self._abstract = abstract
         self._kws = kws
         self._date = date
         self._url = url
+        self._id = str(paper_id)
+        self._title_matches = []
+        self._abstract_matches = []
+        self._kws_matches = []
       
         
 
@@ -44,6 +47,26 @@ def save_pdf(url, file_name = "tmp.pdf"):
     with requests.get(url, stream=True) as r:
         with open(file_name, 'wb') as f:
             shutil.copyfileobj(r.raw, f)
+            
+
+def save_papers(papers_accepted):
+    papers_file = open("papers.txt", "w", encoding="utf-8")
+
+    for paper in papers_accepted:
+        title = paper._title
+        abstract = paper._abstract
+        keywords = paper._kws
+        pub_date = paper._date
+        link = paper._url
+        
+        papers_file.write(paper._id + ": Title match " + str(paper._title_matches) + " / Abstract match " + str(paper._abstract_matches) + "/ Keywords match " + str(paper._kws_matches) + "\n")
+        papers_file.write(pub_date + " / " + link + "\n")
+        papers_file.write('Title: ' +  title + "\n\n")
+        papers_file.write("Abstract: " +  abstract + "\n\n")
+        papers_file.write("Keywords: " + str(keywords) + "\n")
+        papers_file.write("---------------------" + "\n")
+            
+    papers_file.close()
 
 
 def load_historical(file_accepetd = "h_accepted.txt", f_rejected = "h_rejected.txt"):
@@ -78,7 +101,6 @@ def save_historical(h_accepted, h_rejected):
     save_tmp(data, "h_accepted.txt")    
     data = str(h_rejected)
     save_tmp(data, "h_rejected.txt")    
-    
     
 ##
 
@@ -197,12 +219,13 @@ def sc_extract(web_text):
     pub_date = sc_date(json_data)
     link_html = soup.find(lambda b: b.name == 'link' and b.has_attr('rel') and 'canonical' in b['rel'])
     #print(link_html['href'])
-    paper = Paper(title, abstract, keywords, pub_date, url = link_html['href'])
+    paper = Paper(title, abstract, keywords, pub_date, url = link_html['href'], paper_id = paper_counter)
 
     return paper    
 
 
 #def sc_process(paper):
+    # not in use
 def paper_process(paper):
     title = paper._title
     abstract = paper._abstract
@@ -219,23 +242,38 @@ def paper_process(paper):
     if not has_matches:
         return False
    
+    
     print(results_counter, "/", paper_counter, ": Title match", title_matches, " / Abstract match", abstract_matches, "/ Keywords match", kws_matches)
         #print()
     print(pub_date, "/", link)
     print('Title:', title)
     #print('date:', pub_date)
-    print("Abstract:", abstract)
-    print("Keywords:", keywords)
+    #print("Abstract:", abstract)
+    #print("Keywords:", keywords)
     print("---------------------")
     
-    papers_accepted = []
+    # Si no se añaden, se puede guardar al final.
+    # Si paro y nos e guardan, con borrar los aceptados es suficiente.
+    """
     if (results_counter % 5) == 0 and len(papers_accepted) > 0:
         # Save incrementally
-        pass
-    
+        papers_file = open("papers.txt", "w", encoding="utf-8")
+
+        for paper in papers_accepted:
+            papers_file.writeln(results_counter, "/", paper_counter, ": Title match", title_matches, " / Abstract match", abstract_matches, "/ Keywords match", kws_matches)
+            papers_file.writeln(pub_date, "/", link)
+            papers_file.writeln('Title:', title)
+            papers_file.writeln("Abstract:", abstract)
+            papers_file.writeln("Keywords:", keywords)
+            papers_file.writeln("---------------------")
+            
+        papers_file.close()
+        #papers_accepted = []
+    """    
     return True
 
 ##
+
 
 def ieee_json_data(html_block):
     json_block = ""
@@ -277,7 +315,7 @@ def ieee_extract(web_text):
      keywords = ieee_keywords(json_block)
      pub_date = json_block["journalDisplayDateOfPublication"]
 
-     paper = Paper(title, abstract, keywords, pub_date, url = "https://ieeexplore.ieee.org" + json_block["pdfUrl"])
+     paper = Paper(title, abstract, keywords, pub_date, url = "https://ieeexplore.ieee.org" + json_block["pdfUrl"], paper_id = paper_counter)
      
      return paper
 
@@ -311,6 +349,8 @@ def oxford_extract(web_text):
     soup = BeautifulSoup(web_text, 'html.parser')
 
     title_html = soup.find(lambda b: b.name == 'h1' and b.has_attr('class') and 'wi-article-title' in b['class'])
+    #if title_html = None:
+        #print(soup.)
     title = title_html.text.strip()
 
     abstract_html = soup.find(lambda b: b.name == 'section' and b.has_attr('class') and 'abstract' in b['class'])
@@ -336,7 +376,7 @@ def oxford_extract(web_text):
     return paper
 
 
-def search_papers(rss, f_extract, f_process):
+def search_papers(rss, f_extract, f_process = paper_process):
     global paper_counter, results_counter, h_r, h_a
     
     for journal, rss_url in rss.items():
@@ -359,12 +399,43 @@ def search_papers(rss, f_extract, f_process):
             result = url_get(link)
             
             paper = f_extract(result.text)
-            accepted = f_process(paper)
-            if not accepted:
+            
+            
+            #accepted = f_process(paper)
+            title = paper._title
+            abstract = paper._abstract
+            keywords = paper._kws
+            pub_date = paper._date
+            link = paper._url
+
+            title_matches = matches_text(all_keywords, title) 
+            abstract_matches = matches_text(all_keywords, abstract)    
+            kws_matches = matches_list(all_keywords, keywords)
+            
+            paper._title_matches = title_matches
+            paper._abstract_matches = abstract_matches
+            paper._kws_matches = kws_matches
+            
+            has_matches = any_match(title_matches, abstract_matches, kws_matches)
+            #has_matches = True
+            if not has_matches:
                 h_r = add_historical(h_r, link)
-            else:        
-                h_a = add_historical(h_a, link, journal, paper._title, paper._date)
-                results_counter += 1
+                continue
+           
+            
+            print(results_counter, "/", paper_counter, ": Title match", title_matches, " / Abstract match", abstract_matches, "/ Keywords match", kws_matches)
+                #print()
+            print(pub_date, "/", link)
+            print('Title:', title)
+            #print('date:', pub_date)
+            #print("Abstract:", abstract)
+            #print("Keywords:", keywords)
+            print("---------------------")
+
+
+            h_a = add_historical(h_a, link, journal, paper._title, paper._date)
+            results_counter += 1
+            papers_accepted.append(paper)
             
             
             """
@@ -528,8 +599,8 @@ agile_keywords = (
     "devops",
     "devsecops",
     "horizontal slicing",
-    "capability",
-    "capabilities",
+    #"capability",
+    #"capabilities",
     "okr",
     "object-key",
     "user story",
@@ -583,10 +654,18 @@ ts = time()
 paper_counter = 0
 h_a, h_r = load_historical()
 results_counter = len(h_a)
+papers_accepted = []
+
+papers_accepted.append( Paper("x", "a", [], "d"))
+papers_accepted.append( Paper("x", "a", [], "d"))
+save_papers(papers_accepted)
+
+exit();
 
 print("Oxford", len(oxford_rss), "RSS")
 print()
-search_papers(science_direct_rss, oxford_extract, paper_process)
+#search_papers(oxford_rss, oxford_extract, paper_process)
+save_papers(papers_accepted)
 print("Final count:", paper_counter, "Results:", results_counter, "Time:", (time()-ts))
 
 
@@ -629,14 +708,19 @@ for journal, rss_url in oxford_rss.items():
 
 print("Science direct", len(science_direct_rss), "RSS")
 print()
-search_papers(science_direct_rss, sc_extract, paper_process)
+#search_papers(science_direct_rss, sc_extract)
+save_papers(papers_accepted)
 print("Final count:", paper_counter, "Results:", results_counter, "Time:", (time()-ts))
 
 
 print("IEEE", len(ieee_rss), "RSS")
 print()
-search_papers(ieee_rss, ieee_extract, paper_process)
+search_papers(ieee_rss, ieee_extract)
+save_papers(papers_accepted)
 print("Final count:", paper_counter, "Results:", results_counter, "Time:", (time()-ts))
+
+
+
 
 exit();
 
